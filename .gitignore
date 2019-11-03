@@ -2,4 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/_ReSharper.Caches/ReSharperPlatformVs16192_df5a6f63.HelloWorld.00
+/_ReSharper.Caches
+/.vs
+/HelloWorld/HelloWorld/bin
+/HelloWorld/HelloWorld/obj
+/HelloWorld/HelloWorld.Android/bin
+/HelloWorld/HelloWorld.Android/obj
+/HelloWorld/HelloWorld.iOS/bin
+/HelloWorld/HelloWorld.iOS/obj
+/HelloWorld/HelloWorld.UWP/bin
+/HelloWorld/HelloWorld.UWP/obj
